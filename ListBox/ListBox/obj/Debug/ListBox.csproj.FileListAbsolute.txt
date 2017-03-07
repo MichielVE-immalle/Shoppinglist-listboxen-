@@ -1,0 +1,14 @@
+c:\users\michiel\documents\visual studio 2015\Projects\ListBox\ListBox\bin\Debug\ListBox.exe.config
+c:\users\michiel\documents\visual studio 2015\Projects\ListBox\ListBox\bin\Debug\ListBox.exe
+c:\users\michiel\documents\visual studio 2015\Projects\ListBox\ListBox\bin\Debug\ListBox.pdb
+c:\users\michiel\documents\visual studio 2015\Projects\ListBox\ListBox\obj\Debug\ListBox.csprojResolveAssemblyReference.cache
+c:\users\michiel\documents\visual studio 2015\Projects\ListBox\ListBox\obj\Debug\MainWindow.g.cs
+c:\users\michiel\documents\visual studio 2015\Projects\ListBox\ListBox\obj\Debug\App.g.cs
+c:\users\michiel\documents\visual studio 2015\Projects\ListBox\ListBox\obj\Debug\ListBox_MarkupCompile.cache
+c:\users\michiel\documents\visual studio 2015\Projects\ListBox\ListBox\obj\Debug\ListBox_MarkupCompile.lref
+c:\users\michiel\documents\visual studio 2015\Projects\ListBox\ListBox\obj\Debug\MainWindow.baml
+c:\users\michiel\documents\visual studio 2015\Projects\ListBox\ListBox\obj\Debug\ListBox.g.resources
+c:\users\michiel\documents\visual studio 2015\Projects\ListBox\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+c:\users\michiel\documents\visual studio 2015\Projects\ListBox\ListBox\obj\Debug\ListBox.csproj.GenerateResource.Cache
+c:\users\michiel\documents\visual studio 2015\Projects\ListBox\ListBox\obj\Debug\ListBox.exe
+c:\users\michiel\documents\visual studio 2015\Projects\ListBox\ListBox\obj\Debug\ListBox.pdb
